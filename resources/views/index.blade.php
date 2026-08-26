@@ -300,7 +300,7 @@
               <div class="class-item-text">
 
                 <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                <span>By Justin Daniel</span>,
+                <span>By Idd Baba</span>,
                 <span>30 minutes</span>
               </div>
             </div>
@@ -312,7 +312,7 @@
               <div class="class-item-text">
 
                 <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                <span>By Justin Daniel</span>,
+                <span>By Idd Baba</span>,
                 <span>30 minutes</span>
               </div>
             </div>
@@ -324,7 +324,7 @@
               <div class="class-item-text">
 
                 <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                <span>By Justin Daniel</span>,
+                <span>ByIdd Baba</span>,
                 <span>30 minutes</span>
               </div>
             </div>
@@ -336,7 +336,7 @@
               <div class="class-item-text">
 
                 <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                <span>By Justin Daniel</span>,
+                <span>By JIdd Baba</span>,
                 <span>30 minutes</span>
               </div>
             </div>
@@ -353,7 +353,7 @@
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-8  section-heading">
-            <span class="subheading">Fitness Sched</span>
+            <span class="subheading">Fitness Schedule</span>
             <h2 class="heading mb-3">Schedule</h2>
             <p>Check out our boxing training schedule to find classes that fit your lifestyle.
                From beginner drills to advanced sparring, we offer sessions throughout the week to keep you sharp and motivated.</p>
@@ -408,7 +408,7 @@
                   <div class="class-item-text">
                     <span>Sunday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -420,7 +420,7 @@
                   <div class="class-item-text">
                     <span>Sunday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -432,7 +432,7 @@
                   <div class="class-item-text">
                     <span>Sunday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -444,7 +444,7 @@
                   <div class="class-item-text">
                     <span>Sunday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -456,7 +456,7 @@
                   <div class="class-item-text">
                     <span>Sunday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -471,7 +471,7 @@
                   <div class="class-item-text">
                     <span>Sunday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -483,7 +483,7 @@
                   <div class="class-item-text">
                     <span>Sunday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -495,7 +495,7 @@
                   <div class="class-item-text">
                     <span>Sunday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -507,7 +507,7 @@
                   <div class="class-item-text">
                     <span>Sunday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -519,7 +519,7 @@
                   <div class="class-item-text">
                     <span>Sunday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -547,7 +547,7 @@
                   <div class="class-item-text">
                     <span>Monday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -559,7 +559,7 @@
                   <div class="class-item-text">
                     <span>Monday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -571,7 +571,7 @@
                   <div class="class-item-text">
                     <span>Monday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -585,7 +585,7 @@
                   <div class="class-item-text">
                     <span>Monday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -612,7 +612,7 @@
                   <div class="class-item-text">
                     <span>Monday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -624,7 +624,7 @@
                   <div class="class-item-text">
                     <span>Monday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -636,7 +636,7 @@
                   <div class="class-item-text">
                     <span>Monday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -648,7 +648,7 @@
                   <div class="class-item-text">
                     <span>Monday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -665,7 +665,7 @@
                   <div class="class-item-text">
                     <span>Tuesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -676,7 +676,7 @@
                   <div class="class-item-text">
                     <span>Tuesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -690,7 +690,7 @@
                   <div class="class-item-text">
                     <span>Tuesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -702,7 +702,7 @@
                   <div class="class-item-text">
                     <span>Tuesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -714,7 +714,7 @@
                   <div class="class-item-text">
                     <span>Tuesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -729,7 +729,7 @@
                   <div class="class-item-text">
                     <span>Tuesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -740,7 +740,7 @@
                   <div class="class-item-text">
                     <span>Tuesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -752,7 +752,7 @@
                   <div class="class-item-text">
                     <span>Tuesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -766,7 +766,7 @@
                   <div class="class-item-text">
                     <span>Tuesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -778,7 +778,7 @@
                   <div class="class-item-text">
                     <span>Tuesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -795,7 +795,7 @@
                   <div class="class-item-text">
                     <span>Wednesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -806,7 +806,7 @@
                   <div class="class-item-text">
                     <span>Wednesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By JIdd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -820,7 +820,7 @@
                   <div class="class-item-text">
                     <span>Wednesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -832,7 +832,7 @@
                   <div class="class-item-text">
                     <span>Wednesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -844,7 +844,7 @@
                   <div class="class-item-text">
                     <span>Wednesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -859,7 +859,7 @@
                   <div class="class-item-text">
                     <span>Wednesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -870,7 +870,7 @@
                   <div class="class-item-text">
                     <span>Wednesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -882,7 +882,7 @@
                   <div class="class-item-text">
                     <span>Wednesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -896,7 +896,7 @@
                   <div class="class-item-text">
                     <span>Wednesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -908,7 +908,7 @@
                   <div class="class-item-text">
                     <span>Wednesday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -926,7 +926,7 @@
                   <div class="class-item-text">
                     <span>Thursday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -937,7 +937,7 @@
                   <div class="class-item-text">
                     <span>Thursday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -949,7 +949,7 @@
                   <div class="class-item-text">
                     <span>Thursday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -961,7 +961,7 @@
                   <div class="class-item-text">
                     <span>Thursday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -975,7 +975,7 @@
                   <div class="class-item-text">
                     <span>Thursday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -990,7 +990,7 @@
                   <div class="class-item-text">
                     <span>Thursday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1002,7 +1002,7 @@
                   <div class="class-item-text">
                     <span>Thursday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1014,7 +1014,7 @@
                   <div class="class-item-text">
                     <span>Thursday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1026,7 +1026,7 @@
                   <div class="class-item-text">
                     <span>Thursday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1038,7 +1038,7 @@
                   <div class="class-item-text">
                     <span>Thursday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1055,7 +1055,7 @@
                   <div class="class-item-text">
                     <span>Friday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>ByIdd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1066,7 +1066,7 @@
                   <div class="class-item-text">
                     <span>Friday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1080,7 +1080,7 @@
                   <div class="class-item-text">
                     <span>Friday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1092,7 +1092,7 @@
                   <div class="class-item-text">
                     <span>Friday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1104,7 +1104,7 @@
                   <div class="class-item-text">
                     <span>Friday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1119,7 +1119,7 @@
                   <div class="class-item-text">
                     <span>Friday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1130,7 +1130,7 @@
                   <div class="class-item-text">
                     <span>Friday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1142,7 +1142,7 @@
                   <div class="class-item-text">
                     <span>Friday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1156,7 +1156,7 @@
                   <div class="class-item-text">
                     <span>Friday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1168,7 +1168,7 @@
                   <div class="class-item-text">
                     <span>Friday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1185,7 +1185,7 @@
                   <div class="class-item-text">
                     <span>Saturday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1196,7 +1196,7 @@
                   <div class="class-item-text">
                     <span>Saturday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1211,7 +1211,7 @@
                   <div class="class-item-text">
                     <span>Saturday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1223,7 +1223,7 @@
                   <div class="class-item-text">
                     <span>Saturday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1235,7 +1235,7 @@
                   <div class="class-item-text">
                     <span>Saturday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1250,7 +1250,7 @@
                   <div class="class-item-text">
                     <span>Saturday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #3</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1261,7 +1261,7 @@
                   <div class="class-item-text">
                     <span>Saturday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #1</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1273,7 +1273,7 @@
                   <div class="class-item-text">
                     <span>Saturday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #2</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1287,7 +1287,7 @@
                   <div class="class-item-text">
                     <span>Saturday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #4</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1299,7 +1299,7 @@
                   <div class="class-item-text">
                     <span>Saturday 7:30am - 9:00am</span>
                     <h2><a href="single.html">Fitness Class Name #5</a></h2>
-                    <span>By Justin Daniel</span>,
+                    <span>By Idd Baba</span>,
                     <span>30 minutes</span>
                   </div>
                 </div>
@@ -1328,7 +1328,7 @@
           <div class="col-lg-3 mb-4 mb-lg-0 col-md-6 text-center" data-aos="fade-up" data-aos-delay="">
            <div class="person">
   <img src="images/person_1.jpg" alt="Trainer Kwame Mkuruma" class="img-fluid">
-  <h3>Kwame Mkuruma</h3>
+  <h3>Idd Baba</h3>
   <p class="position">Trainer</p>
   <p>Kwame is a passionate boxing coach committed to helping every athlete improve their technique,
     strength, and mental toughness to succeed in and out of the ring.</p>
