@@ -1528,56 +1528,62 @@
     </div>
 
     <footer class="footer-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4">
-            <h3 class="text-dark">About uwanja wa kivita</h3>
-            <p>Uwanja wa Kivita is a boxing club dedicated to building strength, discipline, and resilience.
-              We train fighters of all levels — from beginners to champions — in a supportive, high-energy environment.</p>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h3 class="text-dark">About uwanja wa kivita</h3>
+        <p>Uwanja wa Kivita is a boxing club dedicated to building strength, discipline, and resilience.
+          We train fighters of all levels — from beginners to champions — in a supportive, high-energy environment.</p>
+      </div>
+
+      <div class="col-md-3 ml-auto">
+        <h3 class="text-dark">Links</h3>
+        <ul class="list-unstyled footer-links">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Classes</a></li>
+          <li><a href="#">Schedule</a></li>
+          <li><a href="#">Trainer</a></li>
+        </ul>
+      </div>
+
+      <div class="col-md-4">
+        <h3 class="text-dark">Subscribe</h3>
+        <p>Subscribe to get the latest updates on boxing classes, upcoming matches, training tips,
+          and exclusive offers from Uwanja wa Kivita. Don't miss a punch!</p>
+        <form action="#">
+          <div class="d-flex mb-5">
+            <input type="text" class="form-control rounded-0" placeholder="Email">
+            <input type="submit" class="btn btn-primary rounded-0" value="Subscribe">
           </div>
-
-          <div class="col-md-3 ml-auto">
-            <h3 class="text-dark">Links</h3>
-            <ul class="list-unstyled footer-links">
-              <li><a href="#">Home</a></li>
-              <li><a href="#">Classes</a></li>
-              <li><a href="#">Schedule</a></li>
-              <li><a href="#">Trainer</a></li>
-            </ul>
-          </div>
-
-          <div class="col-md-4">
-            <h3 class="text-dark">Subscribe</h3>
-           <p>Subscribe to get the latest updates on boxing classes, upcoming matches, training tips,
-            and exclusive offers from Uwanja wa Kivita. Don’t miss a punch!</p>
-            <form action="#">
-              <div class="d-flex mb-5">
-                <input type="text" class="form-control rounded-0" placeholder="Email">
-                <input type="submit" class="btn btn-primary rounded-0" value="Subscribe">
-              </div>
-            </form>
-          </div>
-
-        </div>
-
-        <div class="row pt-5 mt-5 text-center">
-          <div class="col-md-12">
-            <div class=" pt-5">
-
-              <p class="copyright"><small>&copy;
-                  <script>document.write(new Date().getFullYear());</script> uwanja wa kivita. All Rights Reserved. Design by Man's Sniper Katoto.
-
-
-            </div>
-          </div>
-
+        </form>
+      </div>
+    </div>
+<div class="row mt-4">
+  <div class="col-md-12 text-center">
+    <h3 class="text-dark mb-3">Follow Us</h3>
+    <div class="social-links">
+      <a href="https://www.youtube.com/@kwamesports7523" target="_blank" class="mr-3" style="color: #333; font-size: 28px;">
+        <i class="fab fa-youtube"></i>
+      </a>
+      <a href="https://www.instagram.com/yourusername" target="_blank" class="mr-3" style="color: #333; font-size: 28px;">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="https://www.facebook.com/yourpage" target="_blank" style="color: #333; font-size: 28px;">
+        <i class="fab fa-facebook"></i>
+      </a>
+    </div>
+  </div>
+</div>
+    <div class="row pt-5 mt-5 text-center">
+      <div class="col-md-12">
+        <div class="pt-5">
+          <p class="copyright"><small>&copy;
+              <script>document.write(new Date().getFullYear());</script> uwanja wa kivita. All Rights Reserved. Design by Man's Sniper Katoto.</small></p>
         </div>
       </div>
-    </footer>
-
-
-
+    </div>
   </div>
+</footer>
   <!-- .site-wrap -->
 
   <script src="js/jquery-3.3.1.min.js"></script>

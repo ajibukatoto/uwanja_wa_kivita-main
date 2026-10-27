@@ -22,6 +22,9 @@
           href="{{ asset('images/log.png') }}?v=2"
           type="image/png">
 
+          <!-- Font Awesome for Social Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
     {{-- Fonts --}}
     <link rel="preconnect" href="https://fonts.bunny.net">
 
